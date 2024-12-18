@@ -7,3 +7,4 @@ public interface FunctionalInterfaceDemo {
         return a * b;
     }
 }
+
